@@ -116,12 +116,3 @@ While the retail team displays flat, stable sales growth (+4.27% YoY) and steady
 2. **Missing Customer Ratings**: Missing values in `customer_rating` (32 records) and `campaign_channel` (24 records) are left blank in calculations rather than imputed, as they impact non-critical dimensions.
 3. **No Direct Logistics Costing**: Profit calculations are assumed to incorporate base COGS, but do not split out shipping charges or restocking fees, leaving a minor uncertainty in return logistics losses.
 
----
-
-## 9. Screenshots Included
-The following high-definition screenshots of the dashboard are included in the repository:
-1. `screenshots/full_dashboard.png`: Screen capture of the entire Executive Dashboard.
-2. `screenshots/sales_trend_view.png`: Trends in sales and profits showing seasonal patterns.
-3. `screenshots/regional_performance_view.png`: Comparative analysis of regional sales & profits.
-4. `screenshots/category_profitability_view.png`: Sub-category profitability horizontal bar chart.
-5. `screenshots/filter_interaction_view.png`: Scatter plot tracking discount vs. profit correlation.
